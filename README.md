@@ -4,7 +4,7 @@ This is a solution to the **Social Links Profile** challenge on [Frontend Mentor
 
 ---
 
-  <img src="./preview.jpg" width="400" alt="Design preview for the Social Links Profile coding challenge">
+  <img src="./preview.jpg"  alt="Design preview for the Social Links Profile coding challenge">
   
 ---
 
